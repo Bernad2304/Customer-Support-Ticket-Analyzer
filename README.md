@@ -5,10 +5,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=750&lines=11+Support+Tickets+Analyzed+End-to-End;Raw+Data+%E2%86%92+Cleaned+%E2%86%92+Explored+%E2%86%92+Reported;Built+with+Core+Python+%E2%80%94+No+Libraries%2C+No+Shortcuts;Every+Line+of+Logic+Written+by+Hand" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Core%20Python-Dict%20%26%20Loops-yellow">
-<img src="https://img.shields.io/badge/Status-Complete-success">
-<img src="https://komarev.com/ghpvc/?username=Bernad2304&label=Repo%20Views&color=blueviolet&style=flat">
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Core%20Python-Dict%20%26%20Loops-yellow"> <img src="https://img.shields.io/badge/Status-Complete-success"> <img src="https://komarev.com/ghpvc/?username=Bernad2304&label=Repo%20Views&color=blueviolet&style=flat">
 
 </div>
 
